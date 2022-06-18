@@ -14,7 +14,7 @@
   </description>
   <maintainer email="jbo@jhu.edu">Jonathan Bohren</maintainer>
   <maintainer email="ros-orphaned-packages@googlegroups.com">ROS Orphaned Package Maintainers</maintainer>
-
+  <maintainer email="leopak2000@gmail.com">Leonard Pak</maintainer>
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/smach_viewer</url>
